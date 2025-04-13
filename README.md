@@ -1,5 +1,13 @@
 # 💫 About Me:
-🔭 I’m currently looking for opportunities<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently looking for opportunities<br>
+👯 I’m looking to collaborate on interesting web development and Python projects<br>
+🤝 I’m looking for help with improving my Django and JavaScript skills<br>
+🌱 I’m currently learning advanced Django concepts and real-time features<br>
+💬 Ask me about Python, Django, or any of my projects<br>
+⚡ Fun fact: I love turning ideas into functional web apps!
+
+📌 This is my **new GitHub account**.  
+🔗 Check out my **old account** here: [Old GitHub Account](https://github.com/adityagavandi)
 
 ## GitHub Stats  
 
