@@ -7,7 +7,7 @@
 ⚡ Fun fact: I love turning ideas into functional web apps!
 
 📌 This is my **new GitHub account**.  
-🔗 Check out my **old account** here: [Old GitHub Account](https://github.com/adityagavandi)
+🔗 Check out my **old account** here: [Old GitHub Account](https://github.com/adityagavandi61)
 
 ## GitHub Stats  
 
