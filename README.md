@@ -21,12 +21,6 @@
 🔹 [Store Manager + Finance Tracker](https://github.com/adityagavandi2003/store-manager)  
 A full-featured business dashboard with sales, expenses, ROI tracking, and Razorpay integration.
 
-🔹 [Sketching Website (E-Commerce)](https://github.com/adityagavandi61/sketehingwebsite)  
-A Django-based product-selling platform with cart, order, and inventory management.
-
-🔹 [YouTube Downloader](https://github.com/adityagavandi2003/youtube-downloader) *(Coming Soon)*  
-Download videos/audio/playlists with progress bar, background tasks & ZIP export.
-
 ---
 
 ## 🏆 Achievements
@@ -39,13 +33,13 @@ Download videos/audio/playlists with progress bar, background tasks & ZIP export
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityagavandi&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)
+![Aditya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityagavandi2003&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)
 
-![Aditya's GitHub Streak](https://streak-stats.demolab.com/?user=adityagavandi&theme=gruvbox&hide_border=true)
+![Aditya's GitHub Streak](https://streak-stats.demolab.com/?user=adityagavandi2003&theme=gruvbox&hide_border=true)
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagavandi&show_icons=true&theme=gruvbox&hide_border=true)
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagavandi2003&show_icons=true&theme=gruvbox&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi&layout=compact&theme=gruvbox&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi2003&layout=compact&theme=gruvbox&hide_border=true)
 
 ---
 
