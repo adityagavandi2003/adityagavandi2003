@@ -1,58 +1,60 @@
-# 💫 About Me:
-🔭 I’m currently looking for opportunities<br>
-👯 I’m looking to collaborate on interesting web development and Python projects<br>
-🤝 I’m looking for help with improving my Django and JavaScript skills<br>
-🌱 I’m currently learning advanced Django concepts and real-time features<br>
-💬 Ask me about Python, Django, or any of my projects<br>
-⚡ Fun fact: I love turning ideas into functional web apps!
+# 👋 Hi there, I'm Aditya Gavandi
 
-📌 This is my **new GitHub account**.  
-🔗 Check out my **old account** here: [Old GitHub Account](https://github.com/adityagavandi61)
-
-## GitHub Stats  
-
-This is my new GitHub account: [@adityagavandi](https://github.com/adityagavandi2003)  
-Here is my old GitHub account: [@adityagavandi61](https://github.com/adityagavandi61)  
-
-### 📊 Stats  
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagavandi2003&show_icons=true&theme=radical)  
-![Old Account Stats](https://github-readme-stats.vercel.app/api?username=adityagavandi61&show_icons=true&theme=radical)  
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/adityagavandi/) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![<omgodb](https://img.shields.io/badge/-Mongodb-003B57?style=flat&logo=mongodb&logoColor=white)
-
-# 📊 GitHub stats:
-![](https://github-readme-stats.vercel.app/api?username=adityagavandi2003&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityagavandi2003&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi2003&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityagavandi2003&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-# 📊 GitHub stats of my old account:
-![](https://github-readme-stats.vercel.app/api?username=adityagavandi61&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityagavandi61&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi61&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityagavandi61&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityagavandi2003&limit=5&theme=dark&combine_all_yearly_contributions=true)
+🎓 B.Sc. in Information Technology | 💻 Web Developer | 🐍 Python & Django Enthusiast  
+🌐 Building real-world projects with Django, FastAPI, JavaScript, HTML, CSS, and Tailwind  
+🔭 Currently exploring Docker, Redis, Celery, and deploying full-stack apps  
+📍 Based in India | Open to remote roles and internship opportunities
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityagavandi2003&icon=2&color=0)](https://visitcount.itsvg.in)
 
-### 🔝 Top Contributed Repo of my old account
-![](https://github-contributor-stats.vercel.app/api?username=adityagavandi61&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🚀 Tech Stack
+
+- **Languages:** Python, JavaScript, HTML5, CSS3
+- **Frameworks:** Django, FastAPI, Django REST Framework, Tailwind CSS
+- **Tools:** Git, GitHub, SQLite, Figma, DaVinci Resolve
+- **Others:** Razorpay Integration, ImageKit, Celery (WIP), Redis (WIP)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityagavandi61&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📌 Featured Projects
+
+🔹 [Store Manager + Finance Tracker](https://github.com/adityagavandi2003/store-manager)  
+A full-featured business dashboard with sales, expenses, ROI tracking, and Razorpay integration.
+
+🔹 [Sketching Website (E-Commerce)](https://github.com/adityagavandi61/sketehingwebsite)  
+A Django-based product-selling platform with cart, order, and inventory management.
+
+🔹 [YouTube Downloader](https://github.com/adityagavandi2003/youtube-downloader) *(Coming Soon)*  
+Download videos/audio/playlists with progress bar, background tasks & ZIP export.
+
+---
+
+## 🏆 Achievements
+
+- 🥈 2nd Place – Social Media Web Project Competition (`Dashavatar`)
+- ✅ Completed Google's **Crash Course on Python**
+- 💼 Internship as Python Developer @ SoftMusk Info Pvt. Ltd.
+
+---
+
+## 📊 GitHub Stats
+
+![Aditya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityagavandi&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)
+
+![Aditya's GitHub Streak](https://streak-stats.demolab.com/?user=adityagavandi&theme=gruvbox&hide_border=true)
+
+![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagavandi&show_icons=true&theme=gruvbox&hide_border=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi&layout=compact&theme=gruvbox&hide_border=true)
+
+---
+
+## 📫 Let's Connect
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/adityagavandi)
+- 💻 [GitHub](https://github.com/adityagavandi2003)
+- 📧 Mail: adityagavandi1998@gmail.com
+---
+
+### ⚡ Fun Fact  
+I love building tools that simplify daily tasks — from business management dashboards to job automation scripts!
