@@ -11,7 +11,7 @@
 
 - **Languages:** Python, JavaScript, HTML5, CSS3
 - **Frameworks:** Django, FastAPI, Django REST Framework, Tailwind CSS
-- **Tools:** Git, GitHub, SQLite, Figma, DaVinci Resolve
+- **Tools:** Git, GitHub, SQLite, MySQL
 - **Others:** Razorpay Integration, ImageKit, Celery (WIP), Redis (WIP)
 
 ---
