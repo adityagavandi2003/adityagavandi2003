@@ -25,7 +25,7 @@ A full-featured business dashboard with sales, expenses, ROI tracking, and Razor
 
 <!-- Full-width GitHub Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=adityagavandi2003&theme=gruvbox&hide_border=true" alt="Aditya's GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=adityagavandi2003&theme=gruvbox&hide_border=true"/>
 </div>
 
 <br/>
