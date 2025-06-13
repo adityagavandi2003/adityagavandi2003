@@ -1,18 +1,6 @@
 # 👋 Hi there, I'm Aditya Gavandi
 
-🎓 B.Sc. in Information Technology | 💻 Web Developer | 🐍 Python & Django Enthusiast  
-🌐 Building real-world projects with Django, FastAPI, JavaScript, HTML, CSS, and Tailwind  
-🔭 Currently exploring Docker, Redis, Celery, and deploying full-stack apps  
-📍 Based in India | Open to remote roles and internship opportunities
-
----
-
-## 🚀 Tech Stack
-
-- **Languages:** Python, JavaScript, HTML5, CSS3
-- **Frameworks:** Django, FastAPI, Django REST Framework, Tailwind CSS
-- **Tools:** Git, GitHub, SQLite, MySQL
-- **Others:** Razorpay Integration, ImageKit, Celery (WIP), Redis (WIP)
+![terminal](https://github.com/user-attachments/assets/b9770512-5133-4ec8-befd-069a9a316956)
 
 ---
 
