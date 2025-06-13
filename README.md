@@ -32,7 +32,7 @@ A full-featured business dashboard with sales, expenses, ROI tracking, and Razor
 
 <!-- Two Half-width Cards Side-by-Side -->
 <div align="center">
-  <table>
+  <table border="0">
     <tr>
       <td>
         <img src="https://github-readme-stats.vercel.app/api?username=adityagavandi2003&show_icons=true&theme=gruvbox&hide_border=true" alt="Aditya's GitHub Stats"/>
