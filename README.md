@@ -23,11 +23,27 @@ A full-featured business dashboard with sales, expenses, ROI tracking, and Razor
 
 ![Aditya's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=adityagavandi2003&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10)
 
-![Aditya's GitHub Streak](https://streak-stats.demolab.com/?user=adityagavandi2003&theme=gruvbox&hide_border=true)
+<!-- Full-width GitHub Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=adityagavandi2003&theme=gruvbox&hide_border=true" alt="Aditya's GitHub Streak"/>
+</div>
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityagavandi2003&show_icons=true&theme=gruvbox&hide_border=true)
+<br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi2003&layout=compact&theme=gruvbox&hide_border=true)
+<!-- Two Half-width Cards Side-by-Side -->
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=adityagavandi2003&show_icons=true&theme=gruvbox&hide_border=true" alt="Aditya's GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi2003&layout=compact&theme=gruvbox&hide_border=true" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
 
 ---
 
